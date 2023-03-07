@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head >
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="~/images/favicon.svg"
+      type="image/x-icon"
+    />
+    <title>@ViewData["Title"] |  TienDung</title>
+
+    <!-- ========== All CSS files linkup ========= -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/lineicons.css" />
+    <link rel="stylesheet" href="~/css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="~/css/fullcalendar.css" />
+    <link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true"/>
+</head>
+<body>
+
+
+    @Html.Partial("_Sidebar")
+
+    <div class="overlay"></div>
+
+
+
+
+    <main class="main-wrapper">
+      <header class="header">
+      @Html.Partial("_Header")
+      </header>
+
+
+
+      
+ 
+        @RenderBody()
+
+
+         <footer class="footer">
+         @Html.Partial("_Footer")
+      </footer>
+     </main>
+    <script src="~/js/dashboard.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js" ></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

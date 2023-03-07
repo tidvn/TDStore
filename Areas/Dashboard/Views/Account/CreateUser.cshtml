@@ -1,0 +1,122 @@
+﻿<section class="tab-components">
+    <div class="container-fluid">
+        <!-- ========== title-wrapper start ========== -->
+        <div class="title-wrapper pt-30">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="title mb-30">
+                        <h2>Form Layout</h2>
+                    </div>
+                </div>
+                <!-- end col -->
+                <div class="col-md-6">
+                    <div class="breadcrumb-wrapper mb-30">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="#0">Dashboard</a>
+                                </li>
+                                <li class="breadcrumb-item"><a href="#0">Forms</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">
+                                    Form Layout
+                                </li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- ========== title-wrapper end ========== -->
+        <!-- ========== form-layout-wrapper start ========== -->
+        <div class="form-layout-wrapper">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="card-style mb-30">
+                        <h6 class="mb-25">Create Staff Account</h6>
+                        <form method="post">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="input-style-1">
+                                        <label>Username</label>
+                                        <input type="text" name="Username" placeholder="Username">
+                                    </div>
+                                </div>
+                                <!-- end col -->
+                                <div class="col-12">
+                                    <div class="input-style-1">
+                                        <label>Full Name</label>
+                                        <input type="text" name="Fullname" placeholder="Full Name">
+                                    </div>
+                                </div>
+                                <!-- end col -->
+                                <div class="col-12">
+                                    <div class="input-style-1">
+                                        <label>Email</label>
+                                        <input type="email" name="Email" placeholder="Email">
+                                    </div>
+                                </div>
+                                <!-- end col -->                               
+                                <div class="col-12">
+                                    <div class="input-style-1">
+                                        <label>Password</label>
+                                        <input type="text" name="Password" placeholder="Password">
+                                    </div>
+                                </div>
+                                <!-- end col -->
+                                <div class="col-sm-6">
+                                    <div class="select-style-1">
+                                        <label>Role</label>
+                                        <div class="select-position">
+                                            <select class="light-bg">
+                                                <option value="">Staff</option>
+                                                <option value="">Customer</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <!-- end select -->
+                                </div>
+                                <!-- end col -->
+                                <div class="col-sm-6">
+                                    <div class="input-style-1">
+                                        <label>Code</label>
+                                        <input type="text" placeholder="code">
+                                    </div>
+                                </div>
+                                <!-- end col -->
+                                
+                                <div class="col-12">
+                                    <div class="button-group d-flex justify-content-center flex-wrap">
+                                        <button type="submit" class="main-btn primary-btn btn-hover m-2">
+                                            Save
+                                        </button>
+                                        <button class="main-btn danger-btn-outline m-2">
+                                            Cancel
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end row -->
+                        </form>
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        @if (ViewBag.Message != null)
+                        {
+                            <div class="alert alert-success" role="alert">@ViewBag.Message</div>
+                        }
+                    </div>
+                    <!-- end card -->
+                    
+                    <!-- end card -->
+                </div>
+                <!-- end col -->
+
+                
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- ========== form-layout-wrapper end ========== -->
+    </div>
+    <!-- end container -->
+</section>

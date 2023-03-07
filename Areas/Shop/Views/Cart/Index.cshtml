@@ -1,0 +1,108 @@
+﻿<div class="shopping-cart section">
+    @if (ViewBag.Cart != null)
+    {
+        <div class="container">
+            <div class="cart-list-head">
+
+                <div class="cart-list-title">
+                    <div class="row">
+                        <div class="col-lg-1 col-md-1 col-12">
+                        </div>
+                        <div class="col-lg-4 col-md-3 col-12">
+                            <p>Product Name</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-12">
+                            <p>Quantity</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-12">
+                            <p>Subtotal</p>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-12">
+                            <p>Discount</p>
+                        </div>
+                        <div class="col-lg-1 col-md-2 col-12">
+                            <p>Remove</p>
+                        </div>
+                    </div>
+                </div>
+
+                @foreach (var item in ViewBag.cart)
+                {
+                    <div class="cart-single-list">
+                        <div class="row align-items-center">
+                            <div class="col-lg-1 col-md-1 col-12">
+                                <a asp-area="Shop" asp-controller="Shop" asp-action="Details" asp-route-id="@item.Product.Id">
+                                    <img src="@item.Image" alt="#" >
+                                </a>
+                            </div>
+                            <div class="col-lg-4 col-md-3 col-12">
+                                <h5 class="product-name">
+                                    <a asp-area="Shop" asp-controller="Shop" asp-action="Details" asp-route-id="@item.Product.Id">
+                                        @item.Product.Name
+                                    </a>
+                                </h5>
+                                <p class="product-des">
+                                    <span><em>Type:</em> Mirrorless</span>
+                                    <span><em>Color:</em> Black</span>
+                                </p>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-12">
+                                <div class="count-input">
+                                    <input type="number" value="@item.Quantity">
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-12">
+                                <p>$@item.Product.Price</p>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-12">
+                                <p>$@item.Discount</p>
+                            </div>
+                            <div class="col-lg-1 col-md-2 col-12">
+                                <a class="remove-item" asp-area="Shop" asp-controller="cart" asp-action="RemoveFromCart" asp-route-id="@item.Product.Id"><i class="lni lni-close"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            
+
+        </div>
+        <div class="row">
+            <div class="col-12">
+
+                <div class="total-amount">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-6 col-12">
+                            <div class="left">
+                                <div class="coupon">
+                                    <form action="#" target="_blank">
+                                        <input name="Coupon" placeholder="Enter Your Coupon">
+                                        <div class="button">
+                                            <button class="btn">Apply Coupon</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="right">
+                                <ul>
+                                    <li>Cart Subtotal<span>$@ViewBag.total</span></li>
+                                    <li>Shipping<span>Free</span></li>
+                                    <li>You Save<span>$0</span></li>
+                                        <li class="last">You Pay<span>$@ViewBag.total</span></li>
+                                </ul>
+                                <div class="button">
+                                    <a asp-area="shop" asp-controller="Cart" asp-action="CheckOut" class="btn">Checkout</a>
+                                        <a asp-area="shop" asp-controller="Shop" asp-action="Index" class="btn btn-alt">Continue shopping</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    }
+</div>

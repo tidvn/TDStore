@@ -1,0 +1,533 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TDStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TDStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\lineicons.css",
+      "PackagePath": "staticwebassets\\css\\lineicons.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\loading-bar.min.css",
+      "PackagePath": "staticwebassets\\css\\loading-bar.min.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\morris.css",
+      "PackagePath": "staticwebassets\\css\\morris.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\shop.css",
+      "PackagePath": "staticwebassets\\css\\shop.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\auth\\reset-password.svg",
+      "PackagePath": "staticwebassets\\images\\auth\\reset-password.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\auth\\shape.svg",
+      "PackagePath": "staticwebassets\\images\\auth\\shape.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\auth\\signin-image.svg",
+      "PackagePath": "staticwebassets\\images\\auth\\signin-image.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\banner\\banner-1-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-1-bg.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\banner\\banner-2-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-2-bg.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\banner\\banner-3-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\banner-3-bg.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\brands\\0.png",
+      "PackagePath": "staticwebassets\\images\\brands\\0.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\admin-1.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\admin-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\admin-2.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\admin-2.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\admin-3.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\admin-3.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\card-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\card-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\card-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\card-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-1\\card-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-1\\card-3.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-2\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-2\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-2\\card-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-2\\card-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-2\\card-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-2\\card-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-2\\card-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-2\\card-3.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-4\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-4\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-4\\card-1.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-4\\card-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-4\\card-2.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-4\\card-2.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-4\\card-3.png",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-4\\card-3.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-5\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-5\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-5\\card-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-5\\card-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-5\\card-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-5\\card-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-6\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-6\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-6\\card-1.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-6\\card-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-6\\card-2.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-6\\card-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-6\\card-3.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-6\\card-3.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\cards\\card-style-6\\card-4.jpg",
+      "PackagePath": "staticwebassets\\images\\cards\\card-style-6\\card-4.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\clients\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\clients\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\clients\\client-profile.png",
+      "PackagePath": "staticwebassets\\images\\clients\\client-profile.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\clients\\clients-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\clients\\clients-cover.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\images\\favicon.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-1.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-2.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-2.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-3.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-3.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-4.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-4.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-5.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-5.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\featured-categories\\fetured-item-6.png",
+      "PackagePath": "staticwebassets\\images\\featured-categories\\fetured-item-6.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\footer\\credit-cards-footer.png",
+      "PackagePath": "staticwebassets\\images\\footer\\credit-cards-footer.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\header\\cart-items\\item1.jpg",
+      "PackagePath": "staticwebassets\\images\\header\\cart-items\\item1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\header\\cart-items\\item2.jpg",
+      "PackagePath": "staticwebassets\\images\\header\\cart-items\\item2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\hero\\slider-bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\slider-bg1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\hero\\slider-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\slider-bg2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\hero\\slider-bnr.jpg",
+      "PackagePath": "staticwebassets\\images\\hero\\slider-bnr.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\hero\\small-banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\hero\\small-banner-bg.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\invoice\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\invoice\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\invoice\\uideck-logo.svg",
+      "PackagePath": "staticwebassets\\images\\invoice\\uideck-logo.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\lead\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-1.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-2.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-2.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-3.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-3.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-4.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-4.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-5.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-5.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\lead\\lead-6.png",
+      "PackagePath": "staticwebassets\\images\\lead\\lead-6.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\logo\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\logo\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\logo\\logo-2.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\logo-2.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\logo\\logo-white.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\logo-white.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\logo\\white-logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\white-logo.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\modals\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\modals\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\modals\\image-1.svg",
+      "PackagePath": "staticwebassets\\images\\modals\\image-1.svg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\product-details\\x01.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\x01.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\product-details\\x02.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\x02.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\product-details\\x03.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\x03.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\product-details\\x04.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\x04.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\product-details\\x05.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\x05.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\offer-image.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\offer-image.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-mini-1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-mini-1.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-mini-2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-mini-2.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-mini-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-mini-3.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-mini-4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-mini-4.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\products\\product-mini-5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-mini-5.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\profile\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\profile\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\profile\\profile-1.png",
+      "PackagePath": "staticwebassets\\images\\profile\\profile-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\profile\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\profile-cover.jpg"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\profile\\profile-image.png",
+      "PackagePath": "staticwebassets\\images\\profile\\profile-image.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\profile\\profile.png",
+      "PackagePath": "staticwebassets\\images\\profile\\profile.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\projects\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\projects\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\projects\\image-1.png",
+      "PackagePath": "staticwebassets\\images\\projects\\image-1.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\projects\\image-2.png",
+      "PackagePath": "staticwebassets\\images\\projects\\image-2.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\images\\projects\\image-3.png",
+      "PackagePath": "staticwebassets\\images\\projects\\image-3.png"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\dynamic-pie-chart.js",
+      "PackagePath": "staticwebassets\\js\\dynamic-pie-chart.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\jvectormap.min.js",
+      "PackagePath": "staticwebassets\\js\\jvectormap.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\loading-bar.min.js",
+      "PackagePath": "staticwebassets\\js\\loading-bar.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\js\\polyfill.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\shop.js",
+      "PackagePath": "staticwebassets\\js\\shop.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "E:\\AspNetProject\\TDStore\\TDStore\\wwwroot\\js\\world-merc.js",
+      "PackagePath": "staticwebassets\\js\\world-merc.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TDStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TDStore.props",
+      "PackagePath": "build\\TDStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TDStore.props",
+      "PackagePath": "buildMultiTargeting\\TDStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TDStore.props",
+      "PackagePath": "buildTransitive\\TDStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

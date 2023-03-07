@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TDStore
+build_property.RootNamespace = TDStore
+build_property.ProjectDir = E:\AspNetProject\TDStore\TDStore\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\AspNetProject\TDStore\TDStore
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Account/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjY291bnRcQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Account/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjY291bnRcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Dashboard/info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXERhc2hib2FyZFxpbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Shared/Base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxCYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xBY2NvdW50XFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Cart/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xDYXJ0XENoZWNrT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Cart/Index0.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xDYXJ0XEluZGV4MC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shared/Base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcQmFzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcX0Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcX0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shop/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaG9wXENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shop/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaG9wXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaG9wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Shop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/AspNetProject/TDStore/TDStore/Areas/Home/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSG9tZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-t64sq4g1lx
